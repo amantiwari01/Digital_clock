@@ -1,20 +1,24 @@
 # Digital Clock 🕒
 
-A simple Digital Clock application built using Python and Tkinter.
+A simple Digital Clock application built using Python and Tkinter that displays both current time and date.
 
 ## Description
-This project is a basic digital clock that shows the current system time in real-time.  
-It updates every second automatically.
+This project is a GUI-based digital clock which shows:
+- Current Time  
+- Current Date  
+
+The clock updates automatically every second in real-time.
 
 ## Features
-- Displays current time (HH:MM:SS format)
-- Real-time update
-- Simple and clean user interface
-- Built using Python GUI (Tkinter)
+- Displays current time in HH:MM:SS format  
+- Displays current date  
+- Real-time automatic update  
+- Simple and user-friendly interface  
+- Lightweight application  
 
 ## Technologies Used
-- Python
-- Tkinter Library
+- Python  
+- Tkinter Library  
 
 ## How to Run
 
@@ -31,11 +35,15 @@ cd Digital_clock
 python clock.py
 
 ## Requirements
-- Python 3.x installed on your system
+- Python 3.x installed on your system  
+- Tkinter (comes pre-installed with Python)
 
 ## Future Improvements
 - Add alarm feature  
+- Add stopwatch and timer  
 - Improve UI design  
+- Add different themes  
+
 ## Author
 Aman Tiwari  
 GitHub: https://github.com/amantiwari01
